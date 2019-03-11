@@ -1,0 +1,4 @@
+dist/
+django_todo.egg-info/
+todo/__pycache__/
+todo/migrations/__pycache__/
